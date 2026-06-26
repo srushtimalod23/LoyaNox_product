@@ -8,9 +8,9 @@ A simple and responsive **Product Card** application built using **React**, **Vi
 
 Add your project screenshot inside the **public** folder.
 
-```md
+
 ![Product Card Screenshot](public/output.png)
-```
+
 
 ---
 
